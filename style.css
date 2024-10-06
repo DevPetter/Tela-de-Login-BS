@@ -6,7 +6,7 @@ body{
     background-color: #fff;
     border-radius: 20px;
     box-shadow: .5px 10px 15px rgba(0, 0, 0, .2);
-    margin: 25px auto;
+    margin: 140px auto;
     padding: 25px;
     height: 560px;
 }
@@ -65,5 +65,11 @@ body{
 }
 
 .img-fluid{
-    padding-top: 40px;
+    padding-top: 50px;
 }
+
+.btn.btn-primary{
+    margin-top: 20px;
+    width: 100%;
+}
+
